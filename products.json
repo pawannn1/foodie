@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Double Burger",
+        "price": "$9.67",
+        "image": "images/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Pizza",
+        "price": "$10.99",
+        "image": "images/pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "White Plate Food",
+        "price": "$13.45",
+        "image": "images/white-plate-food.png"
+    },
+    {
+        "id": 4,
+        "name": "Samosa",
+        "price": "$5.67",
+        "image": "images/Samosa.png"
+    },
+    {
+        "id": 5,
+        "name": "Vada pav",
+        "price": "$12.4",
+        "image": "images/Vada pav.png"
+    },
+    {
+        "id": 6,
+        "name": "Paneer Roll",
+        "price": "$7.50",
+        "image": "images/chicken-roll.png"
+    },
+    {
+        "id": 7,
+        "name": "Sub Sandwich",
+        "price": "$8.99",
+        "image": "images/sandwich.png"
+    },
+    {
+        "id": 8,
+        "name": "Crab Roll",
+        "price": "$26.45",
+        "image": "images/crab-meat-roll.png"
+    },
+     {
+        "id": 9,
+        "name": "lasagna",
+        "price": "$20.2",
+        "image": "images/lasagna.png"
+    },
+    {
+        "id": 10,
+        "name": "Italian Spaghetti",
+        "price": "$7.65",
+        "image": "images/spaghetti.png"
+    },
+    {
+        "id": 11,
+        "name": "Spring Roll",
+        "price": "$9.31",
+        "image": "images/spring-roll.png"
+    },
+    {
+        "id": 12,
+        "name": "Taco",
+        "price": "$2.5",
+        "image": "images/taco.png"
+    },
+    {
+        "id": 13,
+        "name": "Chole Bhature",
+        "price": "$4.78",
+        "image": "images/Chole-Bhature.png"
+    },
+    {
+        "id": 14,
+        "name": "Dosa",
+        "price": "$7.2",
+        "image": "images/Dosa.png"
+    },
+    {
+        "id": 15,
+        "name": "Roasted Corn Cobs",
+        "price": "$11.0",
+        "image": "images/roasted-corn-cobs.png"
+    }
+]
